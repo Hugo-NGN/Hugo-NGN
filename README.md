@@ -18,7 +18,7 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Data Science*
 
 - 🌱 **Skills**:  
   - Programming: Python (NumPy, Pandas, Scikit-learn, PyTorch, Keras etc.) and Java      
-  - Analytical skills: PCA, t-sne, 
+  - Analytical skills: Statistical analysis, PCA, t-sne ... 
 
 - 📫 **Contact Me**:  
   - [LinkedIn](https://www.linkedin.com/in/hugo-nguyen)  
