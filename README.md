@@ -30,12 +30,12 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Data Science*
 
 ### 📊 **Time Series Clustering and Forecasting**  
 Clustering time series using optimized techniques and predictive modeling on clusters.  
-**Key Methods**: K-means, ARIMA/SARIMA, GARCH, and deep learning approaches.  
+**Key Methods**: K-means (DTW), ARIMA/SARIMA, GARCH ...  
 [incoming...](#)  
 
 ### 🧠 **Neural Networks for Financial Risk Modeling**  
 Applying neural networks to model liquidity and solvency risks in financial portfolios.  
-**Focus**: Stress-testing, extreme scenario generation, and risk metrics.  
+**Focus**: Stress-testing, extreme scenario generation, Jump-diffusion, and risk metrics.  
 [incoming...](#)  
 
 ---
