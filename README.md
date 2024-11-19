@@ -7,14 +7,14 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Data Science*
 
 - 💻 **Research Interests**:  
   - Machine Learning and Deep Learning applications in **Quantitative Finance**.  
-  - **Time Series Analysis**, especially in clustering and forecasting.  
-  - Modeling and optimization in **Asset-Liability Management (ALM)**.  
+  - **Time Series Analysis**, especially in clustering and forecasting.
+  - Advanced modeling techniques for **credit exposure** and **default risk assessment**  
   - Risk management: Solvency, liquidity, and stress-testing with stochastic processes and neural networks.  
 
 - 📚 **Currently Exploring**:  
   - Neural networks for modeling **variance and mean predictions** in regression problems.  
-  - Efficient methods for clustering **large time-series datasets**.  
-  - Advanced modeling techniques for **credit exposure** and **default risk assessment**.  
+  - Efficient methods for clustering **time-series datasets**.  
+  - Modeling and optimization for **Asset-Liability Management (ALM)**.    .  
 
 - 🌱 **Skills**:  
   - Programming: Python (NumPy, Pandas, Scikit-learn, PyTorch, Keras etc.) and Java      
