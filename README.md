@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Hugo NGUYEN  
 
 Welcome to my GitHub profile! 
-I'm currently pursuing an M2 Research in **Applied Mathematics for Data Science** at Paris-Saclay and Institut Polytechnique de Paris. My interests lie at the intersection of **financial modeling**, **stochastic process**, **machine learning** and **deep learning**.  
+I'm currently pursuing an M2 Research in **Applied Mathematics for Machine Learning and Data Science** at Paris-Saclay and Institut Polytechnique de Paris. My interests lie at the intersection of **financial modeling**, **stochastic process**, **machine learning** and **deep learning**.  
 
 ## About Me  
 
