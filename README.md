@@ -29,18 +29,12 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Machine Learn
 ## Currently Working On Different Projects  
 
 ### 📊 **Time Series Clustering and Forecasting**  
-Clustering time series using optimized techniques and predictive modeling on clusters.  
-**Key Methods**: K-means (DTW), ARIMA/SARIMA, GARCH ...  
 [incoming...](#)  
 
 ### 📈 **Interest Rate Modeling with Jump Processes**  
-Developing a Hull-White-based interest rate model enriched with jump components to simulate sudden shocks and assess their impact on bond valuation.  
-**Key Features**: Interest rate modeling, Jump-diffusion, trajectory simulation, stress scenario generation.  
 [incoming...](#)  
 
-### 🧠 **Neural Networks for Financial Risk Modeling**  
-Applying neural networks to model liquidity and solvency risks in financial portfolios.  
-**Focus**: Stress-testing, extreme scenario generation, Jump-diffusion, and risk metrics.  
+### 🧠 **Neural Networks for Financial Risk Modeling**    
 [incoming...](#)  
 
 ---
