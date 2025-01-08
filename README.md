@@ -26,17 +26,4 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Machine Learn
 
 ---
 
-## Currently Working On Different Projects  
-
-### 📊 **Time Series Clustering and Forecasting**  
-[incoming...](#)  
-
-### 📈 **Interest Rate Modeling with Jump Processes**  
-[incoming...](#)  
-
-### 🧠 **Neural Networks for Financial Risk Modeling**    
-[incoming...](#)  
-
----
-
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any ideas! 🚀  
