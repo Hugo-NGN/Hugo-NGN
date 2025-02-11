@@ -5,7 +5,7 @@ I'm currently pursuing an M2 Research in **Applied Mathematics for Machine Learn
 
 📫 **Contact**:  
   - [LinkedIn](https://www.linkedin.com/in/hugo-nguyen)  
-  - [Email](mailto:hugo.nguyen@telecom-sudparis.eu)  
+  - hugo[dot]nguyen[at]telecom[minus]sudparis[dot]eu 
 ---
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any ideas! 🚀  
