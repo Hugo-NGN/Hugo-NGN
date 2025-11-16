@@ -1,11 +1,11 @@
 # Hello! 👋 I'm Hugo NGUYEN  
 
-Welcome to my GitHub profile! 
-I'm currently pursuing an M2 Research in **Applied Mathematics for Machine Learning** at Paris-Saclay and Institut Polytechnique de Paris. My interests lie at the intersection of **financial modeling**, **stochastic process**, **machine learning** and **deep learning**.  
-
+Welcome to my GitHub profile!
+I recently completed my Master’s degree in Applied Mathematics for Machine Learning at University Paris-Saclay, and I am now pursuing a PhD in Applied Mathematics at École Polytechnique (CMAP).
+My research interests are centered on the intersection of  **machine learning**, **financial modeling** and **stochastic processes**.
 📫 **Contact**:  
   - [LinkedIn](https://www.linkedin.com/in/hugo-nguyen)  
-  - hugo[dot]nguyen[at]telecom[minus]sudparis[dot]eu 
+  - hugo[dot]nguyen[at]polytechnique[dot]edu
 ---
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any ideas! 🚀  
