@@ -9,6 +9,27 @@ My research interests are centered on the intersection of  **machine learning**,
 📫 **Contact**:  
   - [LinkedIn](https://www.linkedin.com/in/hugo-nguyen)  
   - hugo[dot]nguyen[at]polytechnique[dot]edu
----
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any ideas! 🚀  
+'
+          _____                    _____          
+         /\    \                  /\    \         
+        /::\____\                /::\____\        
+       /:::/    /               /::::|   |        
+      /:::/    /               /:::::|   |        
+     /:::/    /               /::::::|   |        
+    /:::/____/               /:::/|::|   |        
+   /::::\    \              /:::/ |::|   |        
+  /::::::\    \   _____    /:::/  |::|   | _____  
+ /:::/\:::\    \ /\    \  /:::/   |::|   |/\    \ 
+/:::/  \:::\    /::\____\/:: /    |::|   /::\____\
+\::/    \:::\  /:::/    /\::/    /|::|  /:::/    /
+ \/____/ \:::\/:::/    /  \/____/ |::| /:::/    / 
+          \::::::/    /           |::|/:::/    /  
+           \::::/    /            |::::::/    /   
+           /:::/    /             |:::::/    /    
+          /:::/    /              |::::/    /     
+         /:::/    /               /:::/    /      
+        /:::/    /               /:::/    /       
+        \::/    /                \::/    /        
+         \/____/                  \/____/         
+'
