@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Hugo NGUYEN  
+# Hello! I'm Hugo NGUYEN  
 
 Welcome to my GitHub profile!
 I recently completed my Master’s degree in Applied Mathematics for Machine Learning at University Paris-Saclay, and I am now pursuing a PhD in Applied Mathematics at École Polytechnique (CMAP).
